@@ -1,7 +1,7 @@
 # IL2232-HT2022-HIL
 main repository for hardware and code development
 
-Google drive for the project:   (R E M O V E  L I N K  B E F O R E  P U B L I S H I N G)
+Google drive for the project:   _(Remove link before publishing this Git)_
 https://drive.google.com/drive/folders/1hJPgPcsiXoS6iIruIBk-Jfq1RyCo5mk6?usp=sharing
 
 HIL project description:
